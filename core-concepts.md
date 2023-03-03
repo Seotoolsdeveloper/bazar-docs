@@ -21,4 +21,5 @@ We'll provide example code and solutions in the near future, but the Bazar core 
 
 ## Drop-in
 
-Bazar is a drop-in solution; this means it behaves as a package and not as an application. It has its own layer, so you can build many different things in the same application next to an installed and running Bazar package.
+Bazar is a drop-in solution; this means it behaves as a package and not as an application. It has its own layer, so you can build many different things in the same application next to an installed and running Bazar package
+
